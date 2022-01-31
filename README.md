@@ -2,11 +2,18 @@
 Hack and slash game with a [procedurally generated map][generator] - Created using C++ 14 and SFML 2.5.1
 
 ## Controls
-- WSAD - movement
-- ↑→↓← - shoot
-- Space - generate new map
-- ESC - exit
-- For testing: Q & E - zooming, tab - show FPS
+| KEY | Function | Key | For testing |
+| ------ | ------ | ------ | ------ |
+| W | Move up | Q | Zoom in |
+| S | Move down | E | Zoom out |
+| A | Move left | Tab | Show FPS |
+| D | Move right |
+| ↑ | Shot up |
+| ↓ | Shot down |
+| ← | Shot left |
+| → | Shot right |
+| Space | Generate new map |
+| ESC | Exit |
 
 ## Screenshots:
 
