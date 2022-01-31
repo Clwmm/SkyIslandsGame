@@ -1,9 +1,9 @@
 # Sky Islands
-```sh
-Sky Islands.exe
-```
--Hack and slash game with a [procedurally generated map][generator] - Created using C++ 14 and SFML 2.5.1
 
+- Hack and slash game with a [procedurally generated map][generator] - Created using C++ 14 and SFML 2.5.1
+```sh
+`Sky Islands.exe`
+```
 ## Controls
 | KEY | Function | Key | For testing |
 | ------ | ------ | ------ | ------ |
