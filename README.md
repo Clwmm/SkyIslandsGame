@@ -10,6 +10,7 @@ Hack and slash game with a [procedurally generated map][generator] - Created usi
 
 ## Screenshots:
 
-![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Alpha%201.4/res/graphics/1.png)
+![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.0/res/graphics/1.png)
+![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.0/res/graphics/2.png)
 
 [generator]: https://github.com/Clwmm/ProceduralMapGenerator
