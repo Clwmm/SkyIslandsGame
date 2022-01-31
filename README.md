@@ -4,9 +4,9 @@ Hack and slash game with a [procedurally generated map][generator] - Created usi
 ## Controls
 - WSAD - movement
 - ↑→↓← - shoot
-- Q & E - zooming
 - Space - generate new map
 - ESC - exit
+- For testing: Q & E - zooming, tab - show FPS
 
 ## Screenshots:
 
