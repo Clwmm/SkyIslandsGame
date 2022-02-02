@@ -15,12 +15,14 @@ Sky Islands.exe
 | ↓ | Shot down |
 | ← | Shot left |
 | → | Shot right |
+| M | Map |
 | Space | Generate new map |
 | ESC | Exit |
 
 ## Screenshots:
 
-![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.0/res/graphics/1.png)
-![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.0/res/graphics/2.png)
+![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.1/res/graphics/1.png)
+![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.1/res/graphics/2.png)
+![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.1/res/graphics/3.png)
 
 [generator]: https://github.com/Clwmm/ProceduralMapGenerator
