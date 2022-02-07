@@ -4,7 +4,7 @@
 ```sh
 Sky Islands.exe
 ```
-I am looking for a graphic!!
+I am looking for a graphic designer! (pixel art 2D)
 
 ## Controls
 | KEY | Function | Key | For testing |
