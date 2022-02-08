@@ -1,6 +1,6 @@
 # Sky Islands
 
-- Hack and slash game with a [procedurally generated map][generator] - Created using C++ 14 and SFML 2.5.1
+- Rougelike game with a [procedurally generated map][generator] - Created using C++ 14 and SFML 2.5.1
 ```sh
 Sky Islands.exe
 ```
