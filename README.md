@@ -25,10 +25,10 @@ I am looking for a graphic designer! (pixel art 2D)
 
 ## Screenshots:
 
-![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.3/res/graphics/1.png)
-![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.3/res/graphics/2.png)
-![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.3/res/graphics/3.png)
-![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.3/res/graphics/4.png)
-![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.3/res/graphics/5.png)
+![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.4/res/graphics/1.png)
+![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.4/res/graphics/2.png)
+![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.4/res/graphics/3.png)
+![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.4/res/graphics/4.png)
+![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.4/res/graphics/5.png)
 
 [generator]: https://github.com/Clwmm/ProceduralMapGenerator
