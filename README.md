@@ -6,6 +6,10 @@ Sky Islands.exe
 ```
 I am looking for a graphic designer! (pixel art 2D)
 
+```sh
+Currently: 5 enemies and 1 boss
+```
+
 ## Controls
 | KEY | Function | Key | For testing |
 | ------ | ------ | ------ | ------ |
