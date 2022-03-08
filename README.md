@@ -24,7 +24,7 @@ I am looking for a graphic designer! (pixel art 2D)
 | ESC | Exit |
 
 ## ITEMS
-| Items |
+| Items | Kurwa | 
 | ------ | ------ |
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item0.png) | Bullet Firerate + 1.2, Dmg Multiplier + 0.8 |
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item1.png) | Bullet Distance + 80, Speed + 75 |
