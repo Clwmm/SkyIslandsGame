@@ -23,6 +23,20 @@ I am looking for a graphic designer! (pixel art 2D)
 | Space | Generate new map |
 | ESC | Exit |
 
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item0.png) | Bullet Firerate + 1.2, Dmg Multiplier + 0.8 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item1.png) | Bullet Distance + 80, Speed + 75 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item2.png) | Speed + 50, Bullet Speed + 50, Bullet Firerate + 1, Bullet Distance +50, Dmg + 1 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item3.png) | Bullet Speed + 50, Speed + 100 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item4.png) | Bullet Distance + 70, Dmg Multiplier + 0.5 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item5.png) | Bullet Firerate + 1.5 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item6.png) | Bullet Speed + 75, Bullet Distance + 50 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item7.png) | Dmg + 1 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item8.png) | Bullet Size + 0.3 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item9.png) | Bullet Speed + 100 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item10.png) | Dmg Multiplier + 0.4, Dmg + 0.5 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item11.png) | Speed - 90, Dmg + 2 |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/items/item12.png) | Bullet Distance + 75, Speed + 75 |
+
 ## Screenshots:
 
 ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%201.9/res/graphics/1.png)
