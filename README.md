@@ -4,6 +4,10 @@
 - I am looking for a graphic designer! (pixel art 2D)
 - Currently: 5 enemies and 1 boss
 
+```sh
+Sky Islands.exe
+```
+
 ## Controls
 | KEY | Function | Key | For testing |
 | ------ | ------ | ------ | ------ |
