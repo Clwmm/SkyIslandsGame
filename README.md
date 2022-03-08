@@ -2,7 +2,7 @@
 
 - Rougelike game with a [procedurally generated map][generator] - Created using C++ 14 and SFML 2.5.1
 - I am looking for a graphic designer! (pixel art 2D)
-- Currently: 5 enemies and 1 boss
+- Currently: 13 items, 5 enemies and 1 boss
 
 ```sh
 Sky Islands.exe
