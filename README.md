@@ -1,14 +1,8 @@
 # Sky Islands
 
 - Rougelike game with a [procedurally generated map][generator] - Created using C++ 14 and SFML 2.5.1
-```sh
-Sky Islands.exe
-```
-I am looking for a graphic designer! (pixel art 2D)
-
-```sh
-Currently: 5 enemies and 1 boss
-```
+- I am looking for a graphic designer! (pixel art 2D)
+- Currently: 5 enemies and 1 boss
 
 ## Controls
 | KEY | Function | Key | For testing |
