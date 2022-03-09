@@ -25,7 +25,7 @@ Sky Islands.exe
 | Space | Generate new map |
 | ESC | Exit |
 
-## ITEMS
+## Items
 | Items |  | 
 | ------ | ------ |
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/items/item0.png) | Bullet Firerate + 1.2, Dmg Multiplier + 0.8 |
@@ -42,8 +42,8 @@ Sky Islands.exe
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/items/item11.png) | Speed - 90, Dmg + 2 |
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/items/item12.png) | Bullet Distance + 75, Speed + 75 |
 
-## Screenshots:
-
+## Screenshots
+| Screenshots |
 | ------ | ------ |
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/1.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/2.png) |
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/3.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/4.png) |
