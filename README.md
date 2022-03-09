@@ -44,7 +44,6 @@ Sky Islands.exe
 
 ## Screenshots:
 
-| SS's | |
 | ------ | ------ |
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/1.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/2.png) |
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/3.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/4.png) |
