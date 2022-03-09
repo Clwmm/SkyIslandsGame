@@ -4,6 +4,7 @@
 - I am looking for a graphic designer! (pixel art 2D)
 - Currently: 13 items, 5 enemies and 1 boss
 
+#### Table Of Contents
 1. [ Controls ] (#ctr)
 2. [ Items ] (#itm)
 3. [ Screenshots] (#sss)
