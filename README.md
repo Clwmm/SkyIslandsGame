@@ -5,9 +5,9 @@
 - Currently: 13 items, 5 enemies and 1 boss
 
 #### Table Of Contents
-1. [ Controls ] (#ctr)
-2. [ Items ] (#itm)
-3. [ Screenshots] (#sss)
+[ Controls ] (#ctr) 
+[ Items ] (#itm) 
+[ Screenshots] (#sss) 
 
 ```sh
 Sky Islands.exe
