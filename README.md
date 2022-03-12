@@ -47,9 +47,9 @@ Sky Islands.exe
 ## Screenshots
 | Screenshots | |
 | ------ | ------ |
-| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.1/res/graphics/1.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/2.png) |
-| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.1/res/graphics/3.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/4.png) |
-| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.1/res/graphics/5.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.0/res/graphics/6.png) |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.1/res/graphics/1.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.1/res/graphics/2.png) |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.1/res/graphics/3.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.1/res/graphics/4.png) |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.1/res/graphics/5.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.1/res/graphics/6.png) |
 
 
 [generator]: https://github.com/Clwmm/ProceduralMapGenerator
