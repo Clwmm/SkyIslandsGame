@@ -7,7 +7,6 @@
 ```sh
 Sky Islands.exe
 ```
-<a name="ctr"></a>
 
 ## Table of Contents:
 
@@ -32,7 +31,6 @@ Sky Islands.exe
 | Space | Generate new map |
 | ESC | Exit |
 
-<a name="itm"></a>
 ## Items
 | Items |  | 
 | ------ | ------ |
@@ -50,7 +48,6 @@ Sky Islands.exe
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/items/item11.png) | Speed - 90, Dmg + 2 |
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/items/item12.png) | Range + 75, Speed + 75, Dmg Multiplier + 0.2 |
 
-<a name="sss"></a>
 ## Screenshots
 | | |
 | ------ | ------ |
