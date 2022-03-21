@@ -14,22 +14,12 @@ Sky Islands.exe
 - [Items](#items)
 - [Screenshots](#screenshots)
 
-## Controls
-| KEY | Function | Key | For testing |
-| ------ | ------ | ------ | ------ |
-| W | Move up | Q | Zoom in |
-| S | Move down | E | Zoom out |
-| A | Move left | Tab | Show FPS |
-| D | Move right |
-| ↑ | Shot up |
-| ↓ | Shot down |
-| ← | Shot left |
-| → | Shot right |
-| M | Map |
-| WSAD | Move map |
-| Q & E | Zoom in/out map |
-| Space | Generate new map |
-| ESC | Exit |
+## Screenshots
+| | |
+| ------ | ------ |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/1.gif) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/2.gif) |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/3.gif) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/4.gif) |
+| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/5.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/6.png) |
 
 ## Items
 | Items |  | 
@@ -48,12 +38,21 @@ Sky Islands.exe
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/items/item11.png) | Speed - 90, Dmg + 2 |
 | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/items/item12.png) | Range + 75, Speed + 75, Dmg Multiplier + 0.2 |
 
-## Screenshots
-| | |
-| ------ | ------ |
-| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/1.gif) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/2.gif) |
-| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/3.gif) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/4.gif) |
-| ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/5.png) | ![Photo](https://github.com/Clwmm/SkyIslandsGame/blob/main/Sky%20Islands%20Beta%202.4/res/graphics/6.png) |
-
+## Controls
+| KEY | Function | Key | For testing |
+| ------ | ------ | ------ | ------ |
+| W | Move up | Q | Zoom in |
+| S | Move down | E | Zoom out |
+| A | Move left | Tab | Show FPS |
+| D | Move right |
+| ↑ | Shot up |
+| ↓ | Shot down |
+| ← | Shot left |
+| → | Shot right |
+| M | Map |
+| WSAD | Move map |
+| Q & E | Zoom in/out map |
+| Space | Generate new map |
+| ESC | Exit |
 
 [generator]: https://github.com/Clwmm/ProceduralMapGenerator
