@@ -8,6 +8,13 @@
 Sky Islands.exe
 ```
 <a name="ctr"></a>
+
+## Table of Contents:
+
+- [Controls](#controls)
+- [Items](#items)
+- [Screenshots](#screenshots)
+
 ## Controls
 | KEY | Function | Key | For testing |
 | ------ | ------ | ------ | ------ |
